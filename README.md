@@ -43,7 +43,7 @@ Si crees que alguno de los mapas, puede ser mejorados, por favor abre un PR con 
 - [X] Agregar un mapa DevOps
 - [ ] Agregar recursos relevantes para cada uno
 
-## 👬 Contribution
+## 👬 Contribuir
 
 Los mapas fueron construidos usando [Balsamiq](https://balsamiq.com/products/mockups/). El archivo del proyecto puede ser encontrado en  `/ROADMAPS.bmpr`, abrelo en balsamiq, has las modificaciones necesarias, exporta los diagramas a archivos PNG, colocalos en el readme en los lugares relevantes y crea un PR
 
@@ -52,6 +52,6 @@ Los mapas fueron construidos usando [Balsamiq](https://balsamiq.com/products/moc
 - Riega la palabra
 - Escribeme directamente en  kamranahmed.se@gmail.com o en twitter [@kamranahmedse](http://twitter.com/kamranahmedse)
 
-## Licence
+## Licencia
 
 [![Licencia: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
