@@ -1,58 +1,57 @@
-![Web Developer Roadmap](http://i.imgur.com/GyvcunJ.png)
+![Mapa del desarrollador web](http://i.imgur.com/GyvcunJ.png)
 
-> Roadmap to becoming a web developer in 2017
+> Mapa para convertirse en un desarrollador web en 2017
 
-Below you find a set of charts demonstrating the paths that you can take and the technologies that you would want to adopt in order to become a frontend, backend or a devops. I made these charts for an old professor of mine who wanted something to share with his college students to give them a perspective.
+Debajo encontrarás un conjunto de imágenes que muestran los caminos y las tecnologías que puedes tomar para convertirte en un desarrollador frontend, backend o devops. Realicé estas imágenes para un antigüo profesor que quería algo para compartir con sus colegas y estudiantes, para darles un poco de perspectiva.
 
-If you think that these can be improved in anyway, please do suggest.
-
-
-***
-
-<p align="center"><b> Want to learn something new?</b><br>Visit <a href="http://hugobots.com">Hugobots</a> where I teach people</p>
+Si crees que puede ser mejorado de alguna manera, por favor hazme una sugerencia.
 
 ***
 
-## 🚀 Introduction
+<p align="center"><b> ¿Quieres aprender algo nuevo?</b><br>Visita <a href="http://hugobots.com">Hugobots</a> Donde le enseño a la gente</p>
 
-![](https://i.imgur.com/KxH9c5S.png)
+***
 
-## 🎨 Frontend Roadmap
+## 🚀 Introducción
 
-![](https://i.imgur.com/RsttkRo.png)
+![](img/Introduction.png)
 
-## 👽 Backend Roadmap
+## 🎨 Mapa del Frontend
 
-For the backend, personally I would prefer Node JS and PHP-7 for the full time plus I have been experimenting lately with Go and I quite like it. Apart from these, if I have to choose another one, I would go for Ruby. However this is just my personal preference, you can choose any of the shown languages and you will be good.
+![](img/Introduction.png)
 
-![](http://i.imgur.com/NYe0Md6.png)
+## 👽 Mapa del Backend
 
-## 👷 DevOps Roadmap
+Para el backend personalmente sugiero Node JS y PHP 7 para tiempo completo además he experimentado con Go últimamente y me gusta bastante. Además de estos, si tengo que escoger algún otro, me iría por Ruby. Sin embargo es solo mi preferencia personal, puedes escoger cualquier lenguaje de los que muestro y estará bien.
 
-![](https://i.imgur.com/l2KNHYI.png)
+![](img/Introduction.png)
+
+## 👷 Mapa del DevOps
+
+![](img/Introduction.png)
 
 <br>
 
-## 🚦 Wrap Up
+## 🚦 Sugerencia
 
-If you think any of the roadmaps can be improved, please do open a PR with any updates and submit any issues. Also, I will continue to improve this, so you might want to watch/star this repository to revisit.
+Si crees que alguno de los mapas, puede ser mejorados, por favor abre un PR con cualquier actualización y publica cualquier problemática. También continuaré mejorando esto, entonces posiblemente quieras seguir/puntuar este repositorio para re visitarlo.
 
-## ☑ TODO
+## ☑ Para hacer
 
-- [X] Add Frontend Roadmap
-- [X] Add Backend Roadmap
-- [X] Add DevOps Roadmap
-- [ ] Add relevant resources for each
+- [X] Agregar un mapa Frontend
+- [X] Agregar un mapa Backend
+- [X] Agregar un mapa DevOps
+- [ ] Agregar recursos relevantes para cada uno
 
 ## 👬 Contribution
 
-The roadmaps are built using [Balsamiq](https://balsamiq.com/products/mockups/). Project file can be found at `/ROADMAPS.bmpr`, open it in balsamiq, do the necessary modifications, export the diagrams as PNG files, put them in the Readme at relevant places and create a PR.
+Los mapas fueron construidos usando [Balsamiq](https://balsamiq.com/products/mockups/). El archivo del proyecto puede ser encontrado en  `/ROADMAPS.bmpr`, abrelo en balsamiq, has las modificaciones necesarias, exporta los diagramas a archivos PNG, colocalos en el readme en los lugares relevantes y crea un PR
 
-- Open pull request with improvements
-- Discuss ideas in issues
-- Spread the word
-- Reach out to me directly at kamranahmed.se@gmail.com or on twitter [@kamranahmedse](http://twitter.com/kamranahmedse)
+- Abrir PR con mejoras
+- Discutir ideas en las problemáticas
+- Riega la palabra
+- Escribeme directamente en  kamranahmed.se@gmail.com o en twitter [@kamranahmedse](http://twitter.com/kamranahmedse)
 
 ## Licence
 
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![Licencia: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
